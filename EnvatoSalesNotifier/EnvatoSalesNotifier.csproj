@@ -101,22 +101,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\favicon-16x16.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\favicon-96x96.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="ParserIcon.ico" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\favicon_16x16.png" />
+    <None Include="Resources\TrayIcon.ico" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\notSound.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\TrayIcon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
